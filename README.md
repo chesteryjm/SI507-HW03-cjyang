@@ -3,16 +3,16 @@
 
 name: Jiaming Yang <br/>
 uniqname: cjyang<br/>
-section number: 101
-github ID: chesteryjm
+section number: 101<br/>
+github ID: chesteryjm<br/>
 
-name: Ryan Deng
-uniqname: zydeng
-section number: 001
-github ID: dzy407720698
+name: Ryan Deng<br/>
+uniqname: zydeng<br/>
+section number: 001<br/>
+github ID: dzy407720698<br/>
 
-name: Weilong Liu
-uniqname: weilongl
-section number: 001
-github ID: liuweilong96
+name: Weilong Liu<br/>
+uniqname: weilongl<br/>
+section number: 001<br/>
+github ID: liuweilong96<br/>
 
