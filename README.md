@@ -1,8 +1,8 @@
 # chesteryjm
 # SI507-HW03-cjyang
 
-name: Jiaming Yang /n
-uniqname: cjyang\n
+name: Jiaming Yang <br/>
+uniqname: cjyang<br/>
 section number: 101
 github ID: chesteryjm
 
